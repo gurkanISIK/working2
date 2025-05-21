@@ -1,1 +1,1 @@
-git icin deneme surumu.
+git icin deneme surumu 2.
